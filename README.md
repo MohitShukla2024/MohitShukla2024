@@ -6,15 +6,19 @@
 
 <br>
 
-<a href="https://linkedin.com/in/www.linkedin.com/in/mohit-shukla-data" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:mohitshukla20242@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
 
 <br>
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif">
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=MohitShukla&label=Profile%20Views&color=2E9EF7&style=for-the-badge" />
+
+</div>
 
 ### 👋 About Me
 
@@ -26,45 +30,37 @@ I'm a data analytics learner focused on turning raw, messy datasets into clean, 
 - 💬 Ask me about: **SQL queries, Excel modeling, Data Flow Diagrams**
 - ⚡ Fun fact: I like designing systems on paper (DFDs) before writing a single line of code
 
-<br clear="right"/>
-
 ---
 
 ### 🛠️ Tech Stack
 
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**Languages & Query**
+**Languages**
 <br>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
-</td>
-<td valign="top" width="33%">
-
-**Visualization**
+**Data & Visualization**
 <br>
-<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Google_Data_Studio-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white" />
 
-</td>
-<td valign="top" width="33%">
-
-**Tools**
+**Tools & Platforms**
 <br>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
-</td>
-</tr>
-</table>
 
 ---
 
@@ -115,27 +111,39 @@ One-line description of what problem this project solves and the impact/insight 
 
 ---
 
-### 📈 GitHub Stats
+### 📅 Contribution Calendar
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MohitShukla&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitShukla&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohitShukla&theme=tokyonight&hide_border=true" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/2E9EF7/MohitShukla" />
+  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/196127/MohitShukla" />
+  <img src="https://ghchart.rshah.org/196127/MohitShukla" alt="MohitShukla's GitHub Contribution Chart" width="90%"/>
+</picture>
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohitShukla&theme=tokyo-night&hide_border=true" width="90%"/>
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+### 📊 Skill Progress
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MohitShukla&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+**SQL**
+![](https://progress-bar.xyz/85/?width=500&color=2E9EF7&suffix=%25)
+
+**Python**
+![](https://progress-bar.xyz/70/?width=500&color=3776AB&suffix=%25)
+
+**Excel**
+![](https://progress-bar.xyz/80/?width=500&color=217346&suffix=%25)
+
+**Tableau / Power BI**
+![](https://progress-bar.xyz/60/?width=500&color=E97627&suffix=%25)
+
+**HTML / CSS / JS**
+![](https://progress-bar.xyz/55/?width=500&color=F7DF1E&suffix=%25)
+
 </div>
 
 ---
@@ -146,8 +154,8 @@ One-line description of what problem this project solves and the impact/insight 
 
 I'm actively looking for **Data Analyst internship / entry-level opportunities**. If you're hiring or just want to talk data, reach out!
 
-<a href="https://linkedin.com/in/www.linkedin.com/in/mohit-shukla-data" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:mohitshukla20242@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/your-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br><br>
 
