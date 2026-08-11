@@ -111,14 +111,14 @@ One-line description of what problem this project solves and the impact/insight 
 
 ---
 
-### 📊 Contribution Graph
+### 📊 3D Contribution Graph
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MohitShukla2024&theme=tokyo-night&hide_border=true" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MohitShukla2024&theme=minimal&hide_border=true" />
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohitShukla2024&theme=minimal&hide_border=true" alt="Contribution Graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohitShukla2024/MohitShukla2024/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohitShukla2024/MohitShukla2024/profile-3d-contrib/profile-day-rainbow.svg" />
+  <img src="https://raw.githubusercontent.com/MohitShukla2024/MohitShukla2024/profile-3d-contrib/profile-day-rainbow.svg" alt="MohitShukla2024's 3D contribution graph" width="90%" />
 </picture>
 
 </div>
