@@ -116,9 +116,9 @@ One-line description of what problem this project solves and the impact/insight 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohitShukla2024/MohitShukla2024/profile-3d-contrib/profile-night-rainbow.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohitShukla2024/MohitShukla2024/profile-3d-contrib/profile-day-rainbow.svg" />
-  <img src="https://raw.githubusercontent.com/MohitShukla2024/MohitShukla2024/profile-3d-contrib/profile-day-rainbow.svg" alt="MohitShukla2024's 3D contribution graph" width="90%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohitShukla2024/MohitShukla2024/profile-3d-contrib/profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohitShukla2024/MohitShukla2024/profile-3d-contrib/profile-3d-contrib/profile-green.svg" />
+  <img src="https://raw.githubusercontent.com/MohitShukla2024/MohitShukla2024/profile-3d-contrib/profile-3d-contrib/profile-green.svg" alt="MohitShukla2024's 3D contribution graph" width="90%" />
 </picture>
 
 </div>
