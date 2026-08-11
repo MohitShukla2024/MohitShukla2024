@@ -13,9 +13,8 @@ jobs:
       - name: generate 3d contribution graph
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          USERNAME: ${{ github.repository_owner }}
-        with:
-          username: MohitShukla2024
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: MohitShukla2024
 
       - name: Commit & Push
         uses: actions-js/push@master
