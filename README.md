@@ -111,14 +111,14 @@ One-line description of what problem this project solves and the impact/insight 
 
 ---
 
-### 📅 Contribution Calendar
+### 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/2E9EF7/MohitShukla" />
-  <source media="(prefers-color-scheme: light)" srcset="https://ghchart.rshah.org/196127/MohitShukla" />
-  <img src="https://ghchart.rshah.org/196127/MohitShukla" alt="MohitShukla's GitHub Contribution Chart" width="90%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohitShukla/MohitShukla/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohitShukla/MohitShukla/output/github-contribution-grid-snake.svg" />
+  <img alt="MohitShukla's contribution snake" src="https://raw.githubusercontent.com/MohitShukla/MohitShukla/output/github-contribution-grid-snake.svg" width="90%" />
 </picture>
 
 </div>
