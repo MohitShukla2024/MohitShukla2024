@@ -53,8 +53,8 @@ One-line description of what the project does and the problem it solves.
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MohitShukla2024&show_icons=true&theme=default" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitShukla2024&layout=compact" />
 </p>
 
 ---
