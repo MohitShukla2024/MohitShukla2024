@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=MohitShukla&label=Profile%20Views&color=2E9EF7&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=MohitShukla2024&label=Profile%20Views&color=2E9EF7&style=for-the-badge" />
 
 </div>
 
@@ -70,7 +70,7 @@ I'm a data analytics learner focused on turning raw, messy datasets into clean, 
 <tr>
 <td width="50%" valign="top">
 
-**📚 [Library Book Issue Record & Analysis System](https://github.com/MohitShukla/your-repo-name)**
+**📚 [Library Book Issue Record & Analysis System](https://github.com/MohitShukla2024/your-repo-name)**
 
 Database-driven system to track book issues/returns, modeled with Level 0 & Level 1 DFDs covering data stores, external entities, and audit logging.
 
@@ -79,7 +79,7 @@ Database-driven system to track book issues/returns, modeled with Level 0 & Leve
 </td>
 <td width="50%" valign="top">
 
-**📊 [Project Name](https://github.com/MohitShukla/your-repo-name)**
+**📊 [Project Name](https://github.com/MohitShukla2024/your-repo-name)**
 
 One-line description of what problem this project solves and the impact/insight it produced.
 
@@ -90,7 +90,7 @@ One-line description of what problem this project solves and the impact/insight 
 <tr>
 <td width="50%" valign="top">
 
-**📈 [Project Name](https://github.com/MohitShukla/your-repo-name)**
+**📈 [Project Name](https://github.com/MohitShukla2024/your-repo-name)**
 
 One-line description of what problem this project solves and the impact/insight it produced.
 
@@ -111,14 +111,14 @@ One-line description of what problem this project solves and the impact/insight 
 
 ---
 
-### 🐍 Contribution Snake
+### 📊 Contribution Graph
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohitShukla/MohitShukla/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohitShukla/MohitShukla/output/github-contribution-grid-snake.svg" />
-  <img alt="MohitShukla's contribution snake" src="https://raw.githubusercontent.com/MohitShukla/MohitShukla/output/github-contribution-grid-snake.svg" width="90%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MohitShukla2024&theme=tokyo-night&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MohitShukla2024&theme=minimal&hide_border=true" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohitShukla2024&theme=minimal&hide_border=true" alt="Contribution Graph" />
 </picture>
 
 </div>
